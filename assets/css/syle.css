@@ -1,0 +1,32 @@
+body {
+    font-family:'Gugi', cursive;
+    background: url("../images/background3.jpg");
+    color: white;
+
+}
+
+.mainheading{
+    padding: 40px;
+    text-align: center;
+}
+
+#food-view{
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+#food-form{
+    font-size: 30px;
+}
+
+#add-food{
+    color: black;
+    margin-top: 30px;
+}
+
+#food-insert{
+    color: black;
+}
